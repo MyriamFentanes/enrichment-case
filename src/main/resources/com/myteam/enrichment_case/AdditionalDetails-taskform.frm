@@ -1,0 +1,1 @@
+{"id":"dafc7d32-26dc-4c9a-9823-e26aa6d2705f","name":"AdditionalDetails-taskform.frm","model":{"taskName":"AdditionalDetails","processId":"src.enrichment-case","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
